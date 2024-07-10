@@ -1,9 +1,4 @@
-/**
- * Armando Sanchez & Everardo Camarena
- * CECS 326 FALL 2023
- * This program connects the client to a server on port 6007 and it displays echos back 
- * to the client. 
- */
+
 import java.net.*;
 import java.io.*;
 
